@@ -1,2 +1,2 @@
 # TIMScreener
-This is little programme for do screenshots
+Это небольшая программа для создания скриншотов, созданная по уроку https://youtu.be/r0A1RD0lFk4
